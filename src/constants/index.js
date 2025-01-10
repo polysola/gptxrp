@@ -44,13 +44,13 @@ export const navLinks = [
   {
     id: "telegram",
     title: "Telegram",
-    link: "https://t.me/",
+    link: "https://t.me/MetaXRP_Portal",
     external: true,
   },
   {
     id: "x",
     title: "X",
-    link: "https://x.com",
+    link: "https://x.com/MetaXRP_AI",
     external: true,
   },
   {
