@@ -56,7 +56,7 @@ export const navLinks = [
   {
     id: "buy",
     title: "Buy Now",
-    link: "https://firstledger.net",
+    link: "https://firstledger.net/token/rwprSic1JKRqpsozw3PJaR8Kf2egQL51YA/4D58525000000000000000000000000000000000",
     external: true,
   },
 ];
